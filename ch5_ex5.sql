@@ -1,1 +1,1 @@
-INSERT INTO invoice_line_items (invoice_id, invoice_sequence, account_number, line_item_amount, line_item_description) VALUES (120, 1, 160, 180.23, 'Hard drive'), (120, 2, 527, 254.35, 'Exchange server update') 
+INSERT INTO invoice_line_items VALUES (120, 1, 160, 180.23, 'Hard drive'), (120, 2, 527, 254.35, 'Exchange server update') 
